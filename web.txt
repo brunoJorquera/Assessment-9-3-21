@@ -1,0 +1,12 @@
+"How does the internet work? What happens when you click on a link?"
+
+        To answer the first question, the internet is a series of networks ranging from a few small networks to many larger ones.
+    These networks consist of many computers that communicate with one another using responses and requests.
+    The internet as a whole is a path for communication between these computers. This communication is a transfer of data that takes place physically or by signals.
+    When a link is clicked a request is made, a server (computer hosting a database of back-end and front-end info) sends a response back to the user.
+    This link can be accessed through a URL that consists of a protocol (http or https) and is linked to a domain. This domain is further linked by an endpoint (/info-about-something).
+
+      In this module I have come to understand that through the series of many requests and responses, everything we see on a simple page can be linked to these very requests and responses.
+    I have also learned that there are secure ways of accessing websites and unsecure ways as well, this is most commonly seen with http(s).
+    This week we also were taught concerning ports and the importance of how these ports connect us to servers through the internet.
+    We also learned more about URL's and their functions, how they can be manipulated and how the DOM can also be manipulated.
