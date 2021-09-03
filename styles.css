@@ -28,6 +28,16 @@ a:visited {
 	color: crimson;
 }
 
+.ggl{
+	display: flex;
+}
+.fren{
+	display: flex;
+}
+
+.oth{
+	display: flex;
+}
 
 input {
 	display: block;
