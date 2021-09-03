@@ -57,5 +57,43 @@ img {
 	background-color:yellow;
 }
 
+.hoodStuff{
+	display: flex;
+	padding:10px;
+	border:rgb(0, 183, 255) solid 5px;
+}
+
+.pic{
+	border: rgb(0, 183, 255) solid 5px;
+}
+
+.belton{
+	padding: 10px;
+}
+
 .links{
+	padding: 10px;
+	border: orange solid 5px;
+	display: inline-block;
+}
+
+.colorLink{
+	color:rgb(0, 183, 255) ;
+}
+
+#shuffleBtn{
+	background-color:rgb(113, 198, 226);
+	color: black;
+	height: 40px;
+	border-radius: 10px;
+}
+
+#shuffleBtn:hover{
+	height: 39px;
+	background-color: rgb(0, 191, 255);
+	cursor: pointer;
+}
+
+#shuffleBtn:active{
+	height:38px;
 }
